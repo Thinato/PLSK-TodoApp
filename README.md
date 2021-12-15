@@ -1,7 +1,7 @@
 # PLSK-TodoApp
 ![alt text](https://i.imgur.com/K0lzgTe.gif)
 
-Um software de treino.
+Um software de treino.<br/>
 Dificuldade: nível 1 (Básico).
 
 ## Descrição
